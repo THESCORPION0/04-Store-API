@@ -18,13 +18,11 @@ This repo contains my second project in learning Backend using Express.js. I app
 
 ## Getting Started
 
-Run `npm install` to install all needed packages and then run `npm start` to start the server.
-
-## Endpoints
+### Endpoints
 
 - `GET /api/v1/products`: Get all products from the API server
 
-## Usage
+### Usage
 
 1. Clone the repository.
 2. Create a `.env` file in the root directory and add your MongoDB URI and JWT secret:
@@ -36,7 +34,7 @@ Run `npm install` to install all needed packages and then run `npm start` to sta
 4. Run `npm start` to start the server.
 5. Use a tool like Postman to test the endpoints.
 
-## Technologies Used
+### Technologies Used
 
 - Node.js
 - Express.js
